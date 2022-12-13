@@ -4,4 +4,4 @@
 
 맵 에디터 기능
 
-[![Video Label]((https://user-images.githubusercontent.com/62954002/207327426-9fd25454-d14d-4f43-8f6b-3753c622f1c7.png)](https://www.youtube.com/watch?v=vNj98N1Yej0)
+[![Video Label](https://user-images.githubusercontent.com/62954002/207327426-9fd25454-d14d-4f43-8f6b-3753c622f1c7.png)](https://www.youtube.com/watch?v=vNj98N1Yej0)
